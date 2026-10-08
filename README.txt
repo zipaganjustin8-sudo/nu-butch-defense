@@ -1,5 +1,4 @@
-Your CodeWisp game
-==================
+
 
 How to play
 -----------
